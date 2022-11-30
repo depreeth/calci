@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/calci/static/css/main.1ed7db27.css",
+    "main.js": "/calci/static/js/main.5b7e6554.js",
+    "static/js/787.dd804a3d.chunk.js": "/calci/static/js/787.dd804a3d.chunk.js",
+    "index.html": "/calci/index.html",
+    "main.1ed7db27.css.map": "/calci/static/css/main.1ed7db27.css.map",
+    "main.5b7e6554.js.map": "/calci/static/js/main.5b7e6554.js.map",
+    "787.dd804a3d.chunk.js.map": "/calci/static/js/787.dd804a3d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ed7db27.css",
+    "static/js/main.5b7e6554.js"
+  ]
+}
